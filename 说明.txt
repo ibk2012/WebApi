@@ -1,0 +1,2 @@
+WebApiApp是DotNetCore程序；
+WebApiApp02是DotNerFramework程序；
